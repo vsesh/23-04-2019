@@ -1,0 +1,11 @@
+https://www.npmjs.com/package/got
+https://github.com/protobufjs/protobuf.js
+https://github.com/hapijs/joi
+https://node-postgres.com
+http://postgis.net
+https://knexjs.org
+https://github.com/mochajs/mocha
+https://www.npmjs.com/package/nock
+https://www.npmjs.com/package/chai
+https://github.com/ymaps/codestyle
+https://www.npmjs.com/package/express-openapi-validate
